@@ -19,6 +19,10 @@ pip install spacy # advanced Natural Language Processing in Python
 pip install networkx # network analysis library
 pip install datetime # for using date and time
 pip install os # 
+pip install nltk # stopwords, tokenizer, stemmer
+pip install textblob #spell correction, lemmatization
+pip install plotly.express
+pip install scikit
 ```
 
 ## Usage
@@ -32,6 +36,9 @@ import spacy
 import networkx as nx      
 import datetime
 import os
+import nltk
+import plotly.express as px
+import scikit as sklearn
 
 df = pd.read_csv("../Datasets/uspoliticians.csv") #pd is used to read csv file from dataset and create data frame
 nx.draw(strong_G, node_size=20, edge_color='gray',node_color='red') # networkx for drawing network
