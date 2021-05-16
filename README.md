@@ -39,7 +39,6 @@ plt.plot([1, 2, 3, 4], [1, 4, 9, 16]) # usage of plt for ploting graph
 ```
 
 ## Authors
-..*
   + Nishant Patel
   + Apurva Mhatre
   + Anmol Nailesh Shah
