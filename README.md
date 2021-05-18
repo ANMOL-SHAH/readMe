@@ -48,6 +48,7 @@ plt.plot([1, 2, 3, 4], [1, 4, 9, 16]) # usage of plt for ploting graph
 ## Datasets
 
 > Download all datasets present in dataset folder and change directory path for the read csv file functions
+> Alternatively Datasets are also available at [Drive Link](https://drive.google.com/drive/folders/1MQwER4ge-oiLKKAAqw4L-CEc3q7yyDeK)
 
 
 ## Authors
